@@ -1,0 +1,62 @@
+
+.title{
+    font-size:70px;
+    text-align: center;
+    right: auto;
+    color: white;
+    font-family: 'Arvo', serif;
+    padding-top: 10px;
+    
+
+}
+
+.title2{
+    font-size:20px;
+    text-align: center;
+    right: auto;
+    color: white;
+    font-family: 'Arvo', serif;
+
+}
+
+.subtitle{
+    font-size: 17px;
+    color: black;
+    font-family: 'Arvo', serif;
+    font-weight: 550;
+}
+
+.background{
+    background: white;
+    
+    
+}
+
+.card-header{
+    background: rgb(31, 46, 48);
+    font-size: 20px;
+    color: white;
+    font-family: 'Arvo', serif;
+}
+
+
+
+ body {
+    background-image: url("../image/background.jpg");
+    background-repeat: repeat;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
+
+.titleBox{
+    height: 180px;
+    background: rgb(31, 46, 48);
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-top: 50px;
+    border-bottom: 100px;
+}
